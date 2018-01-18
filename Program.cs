@@ -11,7 +11,7 @@ namespace _2of5codigo
         static void Main(string[] args)
         {
             string cadena = "027516159972700000010048456";            
-            
+             
             Console.WriteLine("{0}", Interleaved25(cadena));
             //Console.WriteLine("{0}", GenerarCodigoBarras(cadena));
             Console.ReadLine();
