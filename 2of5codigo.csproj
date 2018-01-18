@@ -52,7 +52,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="SQL\codigosinformato.sql" />
-    <Content Include="SQL\Interleaved2of5.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
