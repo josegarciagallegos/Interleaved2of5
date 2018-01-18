@@ -1,0 +1,19 @@
+c:\users\jggarci\documents\visual studio 2015\Projects\2of5codigo\2of5codigo\bin\Debug\2of5codigo.exe.config
+c:\users\jggarci\documents\visual studio 2015\Projects\2of5codigo\2of5codigo\bin\Debug\2of5codigo.exe
+c:\users\jggarci\documents\visual studio 2015\Projects\2of5codigo\2of5codigo\bin\Debug\2of5codigo.pdb
+c:\users\jggarci\documents\visual studio 2015\Projects\2of5codigo\2of5codigo\obj\Debug\2of5codigo.csprojResolveAssemblyReference.cache
+c:\users\jggarci\documents\visual studio 2015\Projects\2of5codigo\2of5codigo\obj\Debug\2of5codigo.exe
+c:\users\jggarci\documents\visual studio 2015\Projects\2of5codigo\2of5codigo\obj\Debug\2of5codigo.pdb
+C:\Users\JOSE\Downloads\Downloads\2of5codigo\2of5codigo\bin\Debug\2of5codigo.exe.config
+C:\Users\JOSE\Downloads\Downloads\2of5codigo\2of5codigo\bin\Debug\2of5codigo.exe
+C:\Users\JOSE\Downloads\Downloads\2of5codigo\2of5codigo\bin\Debug\2of5codigo.pdb
+C:\Users\JOSE\Downloads\Downloads\2of5codigo\2of5codigo\obj\Debug\2of5codigo.csprojResolveAssemblyReference.cache
+C:\Users\JOSE\Downloads\Downloads\2of5codigo\2of5codigo\obj\Debug\2of5codigo.csproj.CoreCompileInputs.cache
+C:\Users\JOSE\Downloads\Downloads\2of5codigo\2of5codigo\obj\Debug\2of5codigo.exe
+C:\Users\JOSE\Downloads\Downloads\2of5codigo\2of5codigo\obj\Debug\2of5codigo.pdb
+C:\Users\JGGARCI\Downloads\2of5codigo\2of5codigo\bin\Debug\2of5codigo.exe.config
+C:\Users\JGGARCI\Downloads\2of5codigo\2of5codigo\obj\Debug\2of5codigo.exe
+C:\Users\JGGARCI\Downloads\2of5codigo\2of5codigo\obj\Debug\2of5codigo.pdb
+C:\Users\JGGARCI\Downloads\2of5codigo\2of5codigo\bin\Debug\2of5codigo.exe
+C:\Users\JGGARCI\Downloads\2of5codigo\2of5codigo\bin\Debug\2of5codigo.pdb
+C:\Users\JGGARCI\Downloads\2of5codigo\2of5codigo\obj\Debug\2of5codigo.csprojResolveAssemblyReference.cache
